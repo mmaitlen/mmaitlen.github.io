@@ -30,6 +30,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mmaitlen
 github_username:  mmaitlen
 
+# Google Analytics
+google_analytics: UA-156072510-3
+
 # Build settings
 theme: minima
 plugins:
