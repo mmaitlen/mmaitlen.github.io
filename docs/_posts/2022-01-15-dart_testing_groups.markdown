@@ -5,6 +5,8 @@ date:   2022-01-15 17:15:00 -0800
 categories: coding dart flutter testing
 ---
 
+UPDATE - I discussed this topic in a video on [my Youtube channel](https://youtu.be/AohnACb_3qo)
+
 The Flutter API docs states that the [group function](https://api.flutter.dev/flutter/flutter_test/group.html){:target="_blank"} "Creates a group of tests".  Grouping tests helps with test output, scoping setUp and tearDown functions and being able to skip all the tests in a group with a single skip argument.  This post also demonstrates the "dart test -r expanded" command. 
 
 {% highlight dart linenos %}
