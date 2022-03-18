@@ -4,6 +4,7 @@ title:  "Fill in Android form using adb shell input"
 date:   2022-02-18 10:00:00 -0800
 categories: coding dart flutter adb android
 ---
+[TestLink](https://links.irisoncology.com/visits)
 
 ![dice](/assets/images/thumbnail_adb_shell.png){: style="float: left; padding: 5px;"} Put together a video on [my Youtube channel](https://youtu.be/xMI3c_RA20Y) showing how to use adb shell input for Android to fill in Flutter text fields.  The form code is below, nothing fancy, just a couple TextFormField widgets with controllers and focus nodes to drive the cursor forward.  Pressing the login button resets the form, but could also direct the user to another screen.
 
