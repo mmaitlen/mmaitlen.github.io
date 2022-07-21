@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: MGMDev Blog
-email: your-email@example.com
+title: My Creative Journey
+email: future@email.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A blog about software development and stuff
+  One lifeforms exploration of creativity
 
 domain: mmaitlen.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://mmaitlen.github.io  # the base hostname and protocol for your site, e.g. http://example.com
